@@ -1,0 +1,88 @@
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\nlog.config
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.deps.json
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.runtimeconfig.json
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.runtimeconfig.dev.json
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.pdb
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\ViewModel.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\bin\Debug\netcoreapp2.1\ViewModel.pdb
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.csprojAssemblyReference.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorAssemblyInfo.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorAssemblyInfo.cs
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.AssemblyInfoInputs.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.AssemblyInfo.cs
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorTargetAssemblyInfo.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.csproj.CopyComplete
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.pdb
+D:\Ajay P\APITest\APITest\bin\Debug\netcoreapp2.1\nlog.config
+D:\Ajay P\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.deps.json
+D:\Ajay P\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.runtimeconfig.json
+D:\Ajay P\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.runtimeconfig.dev.json
+D:\Ajay P\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.dll
+D:\Ajay P\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.pdb
+D:\Ajay P\APITest\APITest\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\Ajay P\APITest\APITest\bin\Debug\netcoreapp2.1\Services.dll
+D:\Ajay P\APITest\APITest\bin\Debug\netcoreapp2.1\ViewModel.dll
+D:\Ajay P\APITest\APITest\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\Ajay P\APITest\APITest\bin\Debug\netcoreapp2.1\Services.pdb
+D:\Ajay P\APITest\APITest\bin\Debug\netcoreapp2.1\ViewModel.pdb
+D:\Ajay P\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.csprojAssemblyReference.cache
+D:\Ajay P\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.csproj.CoreCompileInputs.cache
+D:\Ajay P\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorAssemblyInfo.cache
+D:\Ajay P\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorAssemblyInfo.cs
+D:\Ajay P\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.AssemblyInfoInputs.cache
+D:\Ajay P\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.AssemblyInfo.cs
+D:\Ajay P\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorTargetAssemblyInfo.cache
+D:\Ajay P\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.csproj.CopyComplete
+D:\Ajay P\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.dll
+D:\Ajay P\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.pdb
+D:\Projects\APITest\APITest\bin\Debug\netcoreapp2.1\nlog.config
+D:\Projects\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.deps.json
+D:\Projects\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.runtimeconfig.json
+D:\Projects\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.runtimeconfig.dev.json
+D:\Projects\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.dll
+D:\Projects\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.pdb
+D:\Projects\APITest\APITest\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\Projects\APITest\APITest\bin\Debug\netcoreapp2.1\Services.dll
+D:\Projects\APITest\APITest\bin\Debug\netcoreapp2.1\ViewModel.dll
+D:\Projects\APITest\APITest\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\Projects\APITest\APITest\bin\Debug\netcoreapp2.1\Services.pdb
+D:\Projects\APITest\APITest\bin\Debug\netcoreapp2.1\ViewModel.pdb
+D:\Projects\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.csprojAssemblyReference.cache
+D:\Projects\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.csproj.CoreCompileInputs.cache
+D:\Projects\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorAssemblyInfo.cache
+D:\Projects\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorAssemblyInfo.cs
+D:\Projects\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.AssemblyInfoInputs.cache
+D:\Projects\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.AssemblyInfo.cs
+D:\Projects\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorTargetAssemblyInfo.cache
+D:\Projects\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.csproj.CopyComplete
+D:\Projects\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.dll
+D:\Projects\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.pdb
+H:\API_Test_Final\APITest\APITest\bin\Debug\netcoreapp2.1\nlog.config
+H:\API_Test_Final\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.deps.json
+H:\API_Test_Final\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.runtimeconfig.json
+H:\API_Test_Final\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.runtimeconfig.dev.json
+H:\API_Test_Final\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.dll
+H:\API_Test_Final\APITest\APITest\bin\Debug\netcoreapp2.1\APITest.pdb
+H:\API_Test_Final\APITest\APITest\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+H:\API_Test_Final\APITest\APITest\bin\Debug\netcoreapp2.1\Services.dll
+H:\API_Test_Final\APITest\APITest\bin\Debug\netcoreapp2.1\ViewModel.dll
+H:\API_Test_Final\APITest\APITest\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+H:\API_Test_Final\APITest\APITest\bin\Debug\netcoreapp2.1\Services.pdb
+H:\API_Test_Final\APITest\APITest\bin\Debug\netcoreapp2.1\ViewModel.pdb
+H:\API_Test_Final\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.csprojAssemblyReference.cache
+H:\API_Test_Final\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.csproj.CoreCompileInputs.cache
+H:\API_Test_Final\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorAssemblyInfo.cache
+H:\API_Test_Final\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorAssemblyInfo.cs
+H:\API_Test_Final\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.AssemblyInfoInputs.cache
+H:\API_Test_Final\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.AssemblyInfo.cs
+H:\API_Test_Final\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.RazorTargetAssemblyInfo.cache
+H:\API_Test_Final\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.csproj.CopyComplete
+H:\API_Test_Final\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.dll
+H:\API_Test_Final\APITest\APITest\obj\Debug\netcoreapp2.1\APITest.pdb

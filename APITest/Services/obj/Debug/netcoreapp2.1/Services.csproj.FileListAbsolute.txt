@@ -1,0 +1,70 @@
+C:\Users\Ajay Pottbatni\source\repos\APITest\ClassLibrary1\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\ClassLibrary1\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\ClassLibrary1\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\ClassLibrary1\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\Ajay Pottbatni\source\repos\APITest\ClassLibrary1\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\Ajay Pottbatni\source\repos\APITest\ClassLibrary1\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\ClassLibrary1\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\Ajay Pottbatni\source\repos\APITest\ClassLibrary1\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\ClassLibrary1\bin\Debug\netcoreapp2.1\ViewModel.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\ClassLibrary1\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+C:\Users\Ajay Pottbatni\source\repos\APITest\ClassLibrary1\bin\Debug\netcoreapp2.1\ViewModel.pdb
+C:\Users\Ajay Pottbatni\source\repos\APITest\ClassLibrary1\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\Ajay Pottbatni\source\repos\APITest\ClassLibrary1\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\ClassLibrary1\obj\Debug\netcoreapp2.1\Services.pdb
+C:\Users\Ajay Pottbatni\source\repos\APITest\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+C:\Users\Ajay Pottbatni\source\repos\APITest\Services\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\Services\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\Ajay Pottbatni\source\repos\APITest\Services\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\Services\bin\Debug\netcoreapp2.1\ViewModel.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\Services\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+C:\Users\Ajay Pottbatni\source\repos\APITest\Services\bin\Debug\netcoreapp2.1\ViewModel.pdb
+C:\Users\Ajay Pottbatni\source\repos\APITest\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\Ajay Pottbatni\source\repos\APITest\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+C:\Users\Ajay Pottbatni\source\repos\APITest\Services\obj\Debug\netcoreapp2.1\Services.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\Services\obj\Debug\netcoreapp2.1\Services.pdb
+D:\Ajay P\APITest\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+D:\Ajay P\APITest\Services\bin\Debug\netcoreapp2.1\Services.dll
+D:\Ajay P\APITest\Services\bin\Debug\netcoreapp2.1\Services.pdb
+D:\Ajay P\APITest\Services\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\Ajay P\APITest\Services\bin\Debug\netcoreapp2.1\ViewModel.dll
+D:\Ajay P\APITest\Services\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\Ajay P\APITest\Services\bin\Debug\netcoreapp2.1\ViewModel.pdb
+D:\Ajay P\APITest\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+D:\Ajay P\APITest\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+D:\Ajay P\APITest\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+D:\Ajay P\APITest\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+D:\Ajay P\APITest\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+D:\Ajay P\APITest\Services\obj\Debug\netcoreapp2.1\Services.dll
+D:\Ajay P\APITest\Services\obj\Debug\netcoreapp2.1\Services.pdb
+D:\Projects\APITest\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+D:\Projects\APITest\Services\bin\Debug\netcoreapp2.1\Services.dll
+D:\Projects\APITest\Services\bin\Debug\netcoreapp2.1\Services.pdb
+D:\Projects\APITest\Services\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\Projects\APITest\Services\bin\Debug\netcoreapp2.1\ViewModel.dll
+D:\Projects\APITest\Services\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\Projects\APITest\Services\bin\Debug\netcoreapp2.1\ViewModel.pdb
+D:\Projects\APITest\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+D:\Projects\APITest\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+D:\Projects\APITest\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+D:\Projects\APITest\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+D:\Projects\APITest\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+D:\Projects\APITest\Services\obj\Debug\netcoreapp2.1\Services.dll
+D:\Projects\APITest\Services\obj\Debug\netcoreapp2.1\Services.pdb
+H:\API_Test_Final\APITest\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+H:\API_Test_Final\APITest\Services\bin\Debug\netcoreapp2.1\Services.dll
+H:\API_Test_Final\APITest\Services\bin\Debug\netcoreapp2.1\Services.pdb
+H:\API_Test_Final\APITest\Services\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+H:\API_Test_Final\APITest\Services\bin\Debug\netcoreapp2.1\ViewModel.dll
+H:\API_Test_Final\APITest\Services\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+H:\API_Test_Final\APITest\Services\bin\Debug\netcoreapp2.1\ViewModel.pdb
+H:\API_Test_Final\APITest\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+H:\API_Test_Final\APITest\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+H:\API_Test_Final\APITest\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+H:\API_Test_Final\APITest\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+H:\API_Test_Final\APITest\Services\obj\Debug\netcoreapp2.1\Services.csproj.CopyComplete
+H:\API_Test_Final\APITest\Services\obj\Debug\netcoreapp2.1\Services.dll
+H:\API_Test_Final\APITest\Services\obj\Debug\netcoreapp2.1\Services.pdb

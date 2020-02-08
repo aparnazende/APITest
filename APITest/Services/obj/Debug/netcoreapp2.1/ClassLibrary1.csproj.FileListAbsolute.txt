@@ -1,0 +1,9 @@
+c:\Users\ajay pottbatni\source\repos\APITest\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.deps.json
+c:\Users\ajay pottbatni\source\repos\APITest\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
+c:\Users\ajay pottbatni\source\repos\APITest\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
+c:\Users\ajay pottbatni\source\repos\APITest\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.csprojAssemblyReference.cache
+c:\Users\ajay pottbatni\source\repos\APITest\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+c:\Users\ajay pottbatni\source\repos\APITest\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.AssemblyInfoInputs.cache
+c:\Users\ajay pottbatni\source\repos\APITest\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.AssemblyInfo.cs
+c:\Users\ajay pottbatni\source\repos\APITest\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.dll
+c:\Users\ajay pottbatni\source\repos\APITest\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.pdb

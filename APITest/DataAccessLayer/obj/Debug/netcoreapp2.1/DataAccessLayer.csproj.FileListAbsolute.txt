@@ -1,0 +1,38 @@
+C:\Users\Ajay Pottbatni\source\repos\APITest\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.deps.json
+C:\Users\Ajay Pottbatni\source\repos\APITest\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+C:\Users\Ajay Pottbatni\source\repos\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Ajay Pottbatni\source\repos\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\Ajay P\APITest\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.deps.json
+D:\Ajay P\APITest\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\Ajay P\APITest\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\Ajay P\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Ajay P\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Ajay P\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\Ajay P\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\Ajay P\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\Projects\APITest\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.deps.json
+D:\Projects\APITest\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\Projects\APITest\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+D:\Projects\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+D:\Projects\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Projects\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Projects\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+D:\Projects\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.dll
+D:\Projects\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.pdb
+H:\API_Test_Final\APITest\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.deps.json
+H:\API_Test_Final\APITest\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.dll
+H:\API_Test_Final\APITest\DataAccessLayer\bin\Debug\netcoreapp2.1\DataAccessLayer.pdb
+H:\API_Test_Final\APITest\DataAccessLayer\bin\Debug\netcoreapp2.1\ViewModel.dll
+H:\API_Test_Final\APITest\DataAccessLayer\bin\Debug\netcoreapp2.1\ViewModel.pdb
+H:\API_Test_Final\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csprojAssemblyReference.cache
+H:\API_Test_Final\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\API_Test_Final\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfoInputs.cache
+H:\API_Test_Final\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.AssemblyInfo.cs
+H:\API_Test_Final\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.csproj.CopyComplete
+H:\API_Test_Final\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.dll
+H:\API_Test_Final\APITest\DataAccessLayer\obj\Debug\netcoreapp2.1\DataAccessLayer.pdb

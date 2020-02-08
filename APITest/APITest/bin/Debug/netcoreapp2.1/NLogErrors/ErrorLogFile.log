@@ -1,0 +1,8 @@
+2019-06-12 15:49:57.8318||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Ajay Pottbatni\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2019-06-12 15:49:58.3553|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5898/api/Album   
+2019-06-12 15:49:58.3553|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:5898/  0 
+2019-06-12 15:49:58.4309|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2019-06-12 15:49:58.4337|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 77.0643ms 200  
+2019-06-12 15:49:58.6209|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Album"}. Executing action APITest.Controllers.AlbumController.Get (APITest) 
+2019-06-12 15:49:58.6393|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method APITest.Controllers.AlbumController.Get (APITest) - Validation state: Valid 
+2019-06-12 15:50:00.4825||INFO|APITest.Controllers.AlbumController|Test 

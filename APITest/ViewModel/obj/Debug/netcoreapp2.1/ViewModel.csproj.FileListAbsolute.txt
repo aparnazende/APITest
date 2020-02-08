@@ -1,0 +1,34 @@
+C:\Users\Ajay Pottbatni\source\repos\APITest\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.deps.json
+C:\Users\Ajay Pottbatni\source\repos\APITest\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.pdb
+C:\Users\Ajay Pottbatni\source\repos\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.AssemblyInfoInputs.cache
+C:\Users\Ajay Pottbatni\source\repos\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.AssemblyInfo.cs
+C:\Users\Ajay Pottbatni\source\repos\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.dll
+C:\Users\Ajay Pottbatni\source\repos\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.pdb
+D:\Ajay P\APITest\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.deps.json
+D:\Ajay P\APITest\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.dll
+D:\Ajay P\APITest\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.pdb
+D:\Ajay P\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.csprojAssemblyReference.cache
+D:\Ajay P\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.csproj.CoreCompileInputs.cache
+D:\Ajay P\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.AssemblyInfoInputs.cache
+D:\Ajay P\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.AssemblyInfo.cs
+D:\Ajay P\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.dll
+D:\Ajay P\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.pdb
+D:\Projects\APITest\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.deps.json
+D:\Projects\APITest\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.dll
+D:\Projects\APITest\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.pdb
+D:\Projects\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.csprojAssemblyReference.cache
+D:\Projects\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.csproj.CoreCompileInputs.cache
+D:\Projects\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.AssemblyInfoInputs.cache
+D:\Projects\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.AssemblyInfo.cs
+D:\Projects\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.dll
+D:\Projects\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.pdb
+H:\API_Test_Final\APITest\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.deps.json
+H:\API_Test_Final\APITest\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.dll
+H:\API_Test_Final\APITest\ViewModel\bin\Debug\netcoreapp2.1\ViewModel.pdb
+H:\API_Test_Final\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.csproj.CoreCompileInputs.cache
+H:\API_Test_Final\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.AssemblyInfoInputs.cache
+H:\API_Test_Final\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.AssemblyInfo.cs
+H:\API_Test_Final\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.dll
+H:\API_Test_Final\APITest\ViewModel\obj\Debug\netcoreapp2.1\ViewModel.pdb
